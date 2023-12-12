@@ -75,6 +75,12 @@ div#formulario > h1 {
    display: none;
  }
 
+ div.campo > i {
+  color: white;
+  background-color: black;
+  font-size: 2em;
+ }
+
  form > input[type=submit] {
    display: block;
    font-size: 1em;
